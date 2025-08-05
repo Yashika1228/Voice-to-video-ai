@@ -1,0 +1,8 @@
+streamlit
+gdown
+torch
+torchvision
+Pillow
+imageio
+imageio-ffmpeg
+numpy
